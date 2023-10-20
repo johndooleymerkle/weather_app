@@ -1,0 +1,22 @@
+Feedback/suggestions: john.dooley@merkle.com
+What is flutter
+- Framework built on top of Dart programming language
+- Made by Google
+- https://flutter.dev/
+- Out of the box uses Material styling: https://m3.material.io/
+What Flutter is good for
+- Platforms: Mobile, Desktop, Web .... maybe
+- Hot reloading
+IDE to use : Visual Studio Code - add the flutter extensions
+Widget
+- what it is
+- stateless vs stateful
+- example
+Widget Tree
+Widgets
+- Row/Column
+- Centre
+- Text
+- Scaffold
+Project structure
+Github link :  https://github.com/johndooleymerkle/weather_app
